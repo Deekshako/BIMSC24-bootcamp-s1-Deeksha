@@ -1,0 +1,28 @@
+
+div{
+
+  
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+#navbar {
+
+    color: red;
+    font-size: 16px;
+
+}
+
+#sidebar{
+
+color:blue;
+font-size: 10px;
+
+}
+
+#main {
+
+    color: green;
+    font-size: 20px;
+
+}
